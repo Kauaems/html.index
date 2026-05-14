@@ -1,3 +1,4 @@
+[soletrar_arrastar_v4.html](https://github.com/user-attachments/files/27776235/soletrar_arrastar_v4.html)
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700;800&family=Nunito:wght@600;700;800&display=swap');
